@@ -13,6 +13,8 @@
 		ADEA109924D3C65A004D6169 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADEA109824D3C65A004D6169 /* Assets.xcassets */; };
 		ADEA109C24D3C65A004D6169 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADEA109B24D3C65A004D6169 /* Preview Assets.xcassets */; };
 		ADEA109F24D3C65A004D6169 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADEA109D24D3C65A004D6169 /* LaunchScreen.storyboard */; };
+		ADEA10A724D3C671004D6169 /* SimpleExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA10A624D3C671004D6169 /* SimpleExample.swift */; };
+		ADEA10A924D3C682004D6169 /* WebImageExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA10A824D3C682004D6169 /* WebImageExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		ADEA109B24D3C65A004D6169 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		ADEA109E24D3C65A004D6169 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ADEA10A024D3C65A004D6169 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ADEA10A624D3C671004D6169 /* SimpleExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleExample.swift; sourceTree = "<group>"; };
+		ADEA10A824D3C682004D6169 /* WebImageExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebImageExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				ADEA109224D3C658004D6169 /* AppDelegate.swift */,
 				ADEA109424D3C658004D6169 /* SceneDelegate.swift */,
 				ADEA109624D3C658004D6169 /* ContentView.swift */,
+				ADEA10A624D3C671004D6169 /* SimpleExample.swift */,
+				ADEA10A824D3C682004D6169 /* WebImageExample.swift */,
 				ADEA109824D3C65A004D6169 /* Assets.xcassets */,
 				ADEA109D24D3C65A004D6169 /* LaunchScreen.storyboard */,
 				ADEA10A024D3C65A004D6169 /* Info.plist */,
@@ -145,6 +151,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADEA10A724D3C671004D6169 /* SimpleExample.swift in Sources */,
+				ADEA10A924D3C682004D6169 /* WebImageExample.swift in Sources */,
 				ADEA109324D3C658004D6169 /* AppDelegate.swift in Sources */,
 				ADEA109524D3C658004D6169 /* SceneDelegate.swift in Sources */,
 				ADEA109724D3C658004D6169 /* ContentView.swift in Sources */,
